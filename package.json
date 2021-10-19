@@ -1,0 +1,14 @@
+{
+  "name": "ajv-oneOf-optional-issue",
+  "version": "1.0.0",
+  "description": "minimal repository to reproduce AJV oneOf incorrect validation issue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.6.3"
+  }
+}
